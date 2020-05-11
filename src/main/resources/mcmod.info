@@ -1,0 +1,16 @@
+[
+{
+  "modid": "SkyblockEnhancements",
+  "name": "Skyblock Enhancements",
+  "description": "Enhancements for Hypixel Skyblock",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://qpixel.dev/mods/Enhancements",
+  "updateUrl": "https://qpixel.dev/mods/Enhancements/downloads",
+  "authorList": ["QPixel"],
+  "credits": "Sk1er LLC, for their Elementa library ",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
